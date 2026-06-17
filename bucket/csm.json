@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/welcomra1n/session-manager-tui/releases/download/v0.3.3/csm-windows-amd64.exe",
-      "hash": "d860a33834e47ca52a95038e4c894ffd529b371bdc970a4cb5cff6f2f6ec7562"
+      "hash": "c47623dd2d76b5f22bf78dca59af877a0ddfa290273b1498106b5a0c160f9a8e"
     }
   },
   "bin": [["csm-windows-amd64.exe", "csm"]],
