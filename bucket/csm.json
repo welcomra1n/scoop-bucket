@@ -1,12 +1,12 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "TUI session manager for Claude Code + Codex",
   "homepage": "https://github.com/welcomra1n/session-manager-tui",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/welcomra1n/session-manager-tui/releases/download/v0.4.1/csm-windows-amd64.exe",
-      "hash": "bd196623d732ba2f2e9483bbd4f8ed3fde160e1b4f5cdee3b312339562f76089"
+      "url": "https://github.com/welcomra1n/session-manager-tui/releases/download/v0.4.2/csm-windows-amd64.exe",
+      "hash": "ecc0574b7e28f5fab9d13222ad95cd8dae03fc0cebf8278cb11005c0f9edd06e"
     }
   },
   "bin": [["csm-windows-amd64.exe", "csm"]],
