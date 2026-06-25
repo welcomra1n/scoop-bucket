@@ -1,12 +1,12 @@
 {
-  "version": "0.9.23",
+  "version": "0.9.24",
   "description": "GUI session manager for Claude Code + Codex (Wails + xterm.js)",
   "homepage": "https://github.com/welcomra1n/csm-gui",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/welcomra1n/csm-gui/releases/download/v0.9.23/csm-gui-windows-amd64.zip",
-      "hash": "b169e996d64e9201f945d2e8a657e6e4b9ec30a83b74bc53f9af64675ed707bb"
+      "url": "https://github.com/welcomra1n/csm-gui/releases/download/v0.9.24/csm-gui-windows-amd64.zip",
+      "hash": "8ea8cdbddcb6a7fa9d85378def712c5f4ab3d800d8c6d0e786ddcf13c11234e5"
     }
   },
   "extract_dir": "",
